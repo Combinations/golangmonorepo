@@ -2,25 +2,31 @@
 When first working with Golang one of the difficulties I ran into was not knowing how to structure my project...
 The purpose of this repo is to provide an example monolithic folder structure.
 
-#Makefile
+##Makefile
+
 Customize your build, test, deploy, clean, ect.. 
 
-#cmd folder
+##cmd folder
+
 Meant to hold application entry points (main functions). The entry points are used to set up and configure each application. 
 
-#pkg folder
+##pkg folder
+
 Internal packages not signifigant enough to be standalone. 
 
-#bin folder
+##bin folder
+
 Meant to hold binaries. Complied application binaries would be generated from the makefile and moved here.
 
-#scripts folder
+##scripts folder
+
 Deploy scripts.
 
-#documents folder
+##documents folder
+
 For documentation. Use GoDoc's!
 
-Remember this is just a suggestion! Golang does not force a folder convention. 
+Remember this is just a suggestion. Golang does not force a folder convention. 
 
 
 
