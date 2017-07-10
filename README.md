@@ -20,7 +20,7 @@ Meant to hold binaries. Complied application binaries would be generated from th
 
 ## scripts folder
 
-Deploy scripts.
+Place scripts here. Deploy! 
 
 ## documents folder
 
