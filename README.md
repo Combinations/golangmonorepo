@@ -24,7 +24,7 @@ Deploy scripts.
 
 ## documents folder
 
-For documentation. Use GoDoc's!
+For all documentation. Remember to use GoDoc's!
 
 ## final thoughts
 
