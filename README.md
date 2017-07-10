@@ -26,6 +26,8 @@ Deploy scripts.
 
 For documentation. Use GoDoc's!
 
+## final thoughts
+
 Remember this is just a suggestion. Golang does not force a folder convention. 
 
 
