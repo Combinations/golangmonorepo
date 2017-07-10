@@ -12,7 +12,7 @@ Meant to hold application entry points (main functions). The entry points are us
 
 ## pkg folder
 
-Internal packages not signifigant enough to be standalone. 
+Internal packages not significant enough to be standalone. 
 
 ## bin folder
 
